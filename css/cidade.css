@@ -32,18 +32,6 @@ p {
     font-size: 20px;
 }
 
-a {
-    color: #fff;
-    background-color: #3f1c9c;
-    text-decoration: none;
-    font-size: 30px;
-    font-weight: 700;
-    border-radius: 50px;
-    padding: 20px;
-    margin: 25px;
-    width: 250px;
-}
-
 ul {
     margin: 10px 0 0 0;
 }
@@ -51,4 +39,16 @@ ul {
 ul li {
     text-align: left;
     font-size: 20px;
+}
+
+a {
+    color: #fff;
+    background-color: #2f7f9e;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 700;
+    border-radius: 50px;
+    padding: 20px;
+    margin: 25px;
+    width: 250px;
 }
